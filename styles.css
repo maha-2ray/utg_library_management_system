@@ -40,7 +40,7 @@ fieldset{
     margin-right: 2vw;
     margin-top: 1vw;
 }
-.icons{
+#icon{
     display: flex;
     flex-direction: column;
     height: 2em;
