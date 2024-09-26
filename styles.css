@@ -8,6 +8,14 @@ html{
     flex-direction: row;
     height: 99vh;
 }
+.profile{
+    padding-left: 5%;
+    background-color: rgb(49, 105, 133);
+}
+.admin{
+    margin-top: 0;
+    color: #fff;
+}
 .tabs{
     background-color: rgb(133, 175, 196);
     width: 15%;
@@ -33,6 +41,14 @@ fieldset{
 }
 .input{
     width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding-left: 2%;
+}
+.title h3{
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
 #search{
     position: absolute;
